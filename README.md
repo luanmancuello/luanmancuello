@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luan Mancuello Fernández</h1>
 <h3 align="center">A Full Stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Landing Page]([https://github.com/luanmancuello/login-app](https://luanmancuello.netlify.app/))
+- 🔭 I’m currently working on [Landing Page]([https://github.com/luanmancuello/login-app](https://github.com/luanmancuello/Landing-page)])
 
 - 📫 How to reach me **luanmancuello@gmail.com**
 
