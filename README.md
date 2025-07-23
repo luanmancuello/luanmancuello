@@ -2,7 +2,6 @@
 <h3 align="center">A Full Stack developer from Brazil</h3>
 
 - 🔭 I’m currently working on:  
-  - [Landing Page](https://luanmancuello.netlify.app/)  
   - [Microsoft Clone](https://microsoft-theta-ten.vercel.app/)  
   - [Login App](https://login-app-rose.vercel.app/)
 
