@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on:  
   - [Microsoft Clone](https://microsoft-theta-ten.vercel.app/)  
   - [Login App](https://login-app-rose.vercel.app/)
-  - [Landing Page]((https://luanmancuello.netlify.app/))
+  - [Landing Page](https://luanmancuello.netlify.app/)
 
 - 📫 How to reach me **luanmancuello@gmail.com**
 
